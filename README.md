@@ -1,4 +1,6 @@
 # calculadora android
 Hecho por MrRocklion
 
-![alt text](app_content.png "Imagen de la app")
+<p float="left">
+<img src="app_content.png" alt="drawing" width="200"/>
+</p>
